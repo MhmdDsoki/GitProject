@@ -16,7 +16,10 @@ class MainActivity : AppCompatActivity() {
 
         //red mean un versioned green mean they are added and is versioned
         //if you want to ignore any file which has important data you use git ignore at project  and . + file name
-        //git add gradlew 
-        //git add . : add all the files in repos and sub-directories to .
+        //git add gradlew
+        //git add . : add all the files in repos and sub-directories to our git repo
+        //commit it just a snapshot of ur changes of the files you edit with the add commit.
+        //git commit -m "message that you attach to.. the changes "
+        println("this is the second commit")
     }
 }
