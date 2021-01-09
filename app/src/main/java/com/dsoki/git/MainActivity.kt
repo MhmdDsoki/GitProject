@@ -28,5 +28,7 @@ class MainActivity : AppCompatActivity() {
         //if we want to switch our current commit so we want to set the state of our project to the state of specific commit.
         //checkout mean we switch our current commit to the commit we want to checkout
         println("this is the third commit")
+        //Experimental branch
+        println("this is the Experimental branch")
     }
 }
