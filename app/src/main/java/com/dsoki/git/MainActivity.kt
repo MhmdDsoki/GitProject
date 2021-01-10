@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         println("this is the third commit")
         //Experimental branch
         println("this is the Experimental branch")
-        //first change
-        println("change 1 commit")
+        //change 2 commit
+        println("change 2 commit")
     }
 }
