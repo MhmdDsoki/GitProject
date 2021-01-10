@@ -32,5 +32,7 @@ class MainActivity : AppCompatActivity() {
         println("this is the Experimental branch")
         //change 2 commit
         println("change 2 commit")
+        //line we want to merge
+        println("This line will be merged")
     }
 }
