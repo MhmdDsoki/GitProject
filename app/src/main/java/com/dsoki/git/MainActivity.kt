@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         //commit it just a snapshot of ur changes of the files you edit with the add commit.
         //git commit -m "message that you attach to.. the changes "
         println("this is the second commit")
+        777
         //Revert checkout stash
         //if you destroy ur code how to jump back to do un do commit or undo ur changes
         //if you want to un commit something ...git log to get all the commits with their hash
